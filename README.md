@@ -1,0 +1,2 @@
+# qualcommOAHackerrank
+all test passed
